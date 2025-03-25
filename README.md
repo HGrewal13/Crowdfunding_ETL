@@ -30,15 +30,17 @@ The purpose of this project is to extract the given data and perform data cleani
 Data Cleaning
 -------------
 - remove unneeded and redundant data
-- splitting columns with multiple information into seperate columns (Started with a Categories & Subcategories column and it was broken down into 2 seperate columns)
+- splitting columns with multiple information into seperate columns (Ex: Started with a Categories & Subcategories column and it was broken down into 2 seperate columns)
 - extracting and organizing data into more readable dataframes
 
 Data Manipulation
 ------------------
+- creating and formatting dataframes through Pandas
 - changing data types of columns to a more sensible data type (int to float for currency related fields)
 - changing data types to ensure datatime objects are in the appropriate format to be read in PostgreSQL
-- using python functions to change the contacts.xlsx data from a string format to JSON format in order to organize data into a dictionary
+- using Python functions to change the contacts.xlsx data from a string format to JSON format in order to organize data into a dictionary
 - creating tables in PostgreSQL with proper primary and foreign keys for a well structured relational database format
+- concatenating strings to ids using Python functions
 
 License
 --------
