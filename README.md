@@ -5,15 +5,18 @@ Dependencies
 Python, Pandas, Jupyter Notebook, PostgreSQL
 
 Pandas
-
+```
 # Import
-```import pandas as pd```
+import pandas as pd
 
 # Locally 
-```pip install pandas```
+pip install pandas
+```
 
 Jupyter Notebook
-```pip install jupyterlab```
+```
+pip install jupyterlab
+```
 
 PostgreSQL
 Download Here ----> https://www.postgresql.org/download/
