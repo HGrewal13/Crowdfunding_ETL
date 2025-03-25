@@ -25,7 +25,8 @@ Download Here ----> https://www.postgresql.org/download/
 Description
 -------------
 I was given 2 excel files - crowdfunding.xlsx and contacts.xlsx, and required to extract, transform and load data from these 2 files. <br>
-The purpose of this project is to extract the given data and perform data cleaning in order to present it in a more useful and detailed format. This is done through data manipulation and the creation of dataframes using Pandas, and then exported to csv files. These csv files can be found in the final_files folder. Finally, these csv files are then imported to PostgreSQL to be used in a relational database system. The schema for table creation and printing all tables can be found in the final_files folder. 
+The purpose of this project is to extract the given data and perform data cleaning in order to present it in a more useful and detailed format. This is done through data manipulation and the creation of dataframes using Pandas, and then exported to csv files. These csv files can be found in the final_files folder. Finally, these csv files are then imported to PostgreSQL to be used in a relational database system. The schema for table creation and printing all tables can be found here <a href="https://github.com/HGrewal13/Crowdfunding_ETL/blob/main/Final_Files/crowdfunding_db_schema.sql">crowdfunding_db_schema.sql</a>. <br>
+A quick entity relation diagram of the data tables can be found here -> <a href="https://github.com/HGrewal13/Crowdfunding_ETL/blob/main/ERD.png">ERD.png</a>
 
 Data Cleaning
 -------------
