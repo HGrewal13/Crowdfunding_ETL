@@ -35,3 +35,11 @@ create table contacts (
 	email varchar(255),
 	foreign key (contact_id) references campaign(contact_id)
 );
+
+select * from category;
+
+select * from subcategory;
+
+select * from campaign;
+
+select * from contacts;
